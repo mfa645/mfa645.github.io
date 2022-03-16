@@ -1,7 +1,6 @@
-# ¡H1 Bienvenido a mi página personal!
-You can use the [editor on GitHub](https://github.com/mfa645/mfa645.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# ¡Bienvenido a mi página personal!📋
+Esta será mi página principal para utilizarla en la asignatura HMIS 🚀
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
